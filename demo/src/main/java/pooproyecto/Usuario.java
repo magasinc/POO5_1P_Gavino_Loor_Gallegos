@@ -1,3 +1,4 @@
+package pooproyecto;
 public class Usuario {
     protected String nombre;
     protected String apellido;
